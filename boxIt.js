@@ -1,7 +1,7 @@
 const name1 = process.argv[2];
 const name2 = process.argv[3];
 const name3 = process.argv[4];
-
+//takes all content given after argv.2
 let arr =  process.argv.slice(2);
 
 // Function to create initial line length
